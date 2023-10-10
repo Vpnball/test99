@@ -5,13 +5,23 @@
          "url": "https://raw.githubusercontent.com/Vpnball/test99/main/TH_TRUE-01.ovpn"
  },
 {
+      "name":"DTAC",
+         "url":"https://raw.githubusercontent.com/Vpnball/test99/main/DTAC.ovpn"
+
+   },
+{
       "name":"TH_DTAC-01",
          "url":"https://raw.githubusercontent.com/Vpnball/test99/main/TH_DTAC-01.ovpn"
+{
+      "name":"TRUE",
+         "url":"https://raw.githubusercontent.com/Vpnball/test99/main/TRUE.ovpn"
+      }
+   
       }
            
 
    ],
 "message":" \nรองรับ TRUE-DTAC\n  ",
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-   "version": 2.3
+   "version": 2.4
 }

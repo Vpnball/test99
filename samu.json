@@ -8,15 +8,13 @@
       "name":"DTAC",
       "url":"https://raw.githubusercontent.com/Vpnball/test99/main/DTAC.ovpn"
       
- },
-      
+    
+      {
       "name":"TH_DTAC-01",
          "url":"https://raw.githubusercontent.com/Vpnball/test99/main/TH_DTAC-01.ovpn"
- 
+      }
       
       {
-      
- 
       "name":"TRUE",
          "url":"https://raw.githubusercontent.com/Vpnball/test99/main/TRUE.ovpn"
     }

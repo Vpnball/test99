@@ -11,10 +11,14 @@
     {       
 "name":"TH_DTAC-01",
          "url": "https://raw.githubusercontent.com/Vpnball/test99/main/TH_DTAC-01.ovpn"
-    }
+    },
+      {
+      "name":"DTAC",
+         "url": "https://raw.githubusercontent.com/Vpnball/test99/main/DTAC.ovpn"
+      }
 ],
    
-"message":" \nรองรับ TRUE-DTAC\nบอลหลังวัง ลพบุรี\nBALLZA-VPN\n  ",
+"message":" \n รองรับ TRUE-DTAC \n บอลหลังวัง ลพบุรี \n BALL-VPN \n  ",
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-   "version": 3.0
+   "version": 3.1
 }

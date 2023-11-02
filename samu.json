@@ -6,8 +6,8 @@
  },
    
     {       
-"name":"TH_DTAC-01",
-         "url": "https://raw.githubusercontent.com/Vpnball/test99/main/TH_DTAC-01.ovpn"
+"name":"DTAC-LAZADA",
+         "url": "https://raw.githubusercontent.com/Vpnball/test99/main/DTAC-LAZADA.ovpn"
     },
 
          
@@ -22,6 +22,6 @@
       
    ],
 "message":" \nรองรับ TRUE-DTAC-AIS\nBALL-VPN\n ",
-   "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน\n31-10-2023" ,
-   "version": 4.0
+   "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน\n02-11-2023" ,
+   "version": 4.1
 }

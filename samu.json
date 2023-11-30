@@ -6,8 +6,8 @@
  },
    
     {       
-"name":"DTAC-Line",
-         "url": "https://raw.githubusercontent.com/Vpnball/test99/main/DTAC-Line.ovpn"
+"name":"DTAC-HAYPYLINE",
+         "url": "https://raw.githubusercontent.com/Vpnball/test99/main/DTAC-HAYPYLINE.ovpn"
     },
 
          
@@ -22,6 +22,6 @@
       
    ],
 "message":" \nรองรับ TRUE-DTAC-AIS\nBALL-VPN\n ",
-   "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน\n17-11-2023" ,
-   "version": 4.4
+   "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน\n01-12-2023" ,
+   "version": 4.5
 }

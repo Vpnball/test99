@@ -1,20 +1,13 @@
 {
    "files": [   
- {
-         "name":"TH_TRUE",
-         "url": "https://raw.githubusercontent.com/Vpnball/test99/main/TH_TRUE.ovpn"
- },
-   
+ 
+         
     {       
 "name":"TH-DTAC-HAYPYLINE",
          "url": "https://raw.githubusercontent.com/Vpnball/test99/main/TH-DTAC-HAYPYLINE.ovpn"
     },
 
          
-    {       
-"name":"DTAC-02-HAYPYLINE",
-         "url": "https://raw.githubusercontent.com/Vpnball/test99/main/DTAC-02-HAYPYLINE.ovpn"
-    }
       
 
 
@@ -24,5 +17,5 @@
    ],
 "message":" \nรองรับ TRUE-DTAC-AIS\nBALL-VPN\nเพิ่มไฟล์[TH-DTAC-HAYPYLINE]\n ",
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน\n10-12-2023" ,
-   "version": 5.0
+   "version": 5.1
 }

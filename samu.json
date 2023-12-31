@@ -16,7 +16,7 @@
       
       {
          "name": "AISPLAY",
-         "url": "https://github.com/Vpnball/test99/blob/main/AISPLAY.ovpn" 
+         "url": "https://raw.githubusercontent.com/Vpnball/test99/main/AISPLAY.ovpn" 
       }
       
 
@@ -29,6 +29,6 @@
       
    ],
 "message":" \nรองรับ TRUE-DTAC-AIS\nBALL-VPN\nเพิ่มไฟล์[(TH-DTAC-HAYPYLINE+AISPLAY,TH-TRUE-YOUTUBE)\n ",
-   "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน\n11-12-2023" ,
-   "version": 5.5
+   "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน\n31-12-2023" ,
+   "version": 5.6
 }
